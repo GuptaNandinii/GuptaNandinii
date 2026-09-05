@@ -68,25 +68,10 @@ Prototype of an invoice management tool enhanced with an AI assistant to streaml
 
 ---
 
-## 🌱 Currently learning
-- Angular (progress shown in recent commits)
-- Data visualization patterns for dashboards
-
----
-
 ## 🌍 Open Source
 Open to contributing and collaborating. I am specifically interested in AITR's open-source projects (mentioned earlier) and welcome collaboration on projects that improve developer tooling, dashboards, or community platforms.
 
 ---
-
-## 📚 Sessions & Learning
-- Understanding Open Source by MU-ACM & [Atharv Vani](https://www.linkedin.com/in/atharv-vani110/)
-
----
-
-## 📊 GitHub Stats
-
-![Nandinii's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GuptaNandinii&bg_color=1c1c1c&color=e6e6e6&line=e6e6e6&point=c2c2c2&area=true&area_color=c2c2c2)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuptaNandinii&layout=compact&theme=dark)](https://github.com/GuptaNandinii)
