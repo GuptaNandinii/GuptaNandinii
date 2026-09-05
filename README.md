@@ -12,7 +12,6 @@ A practical full‑stack developer building web dashboards, automation tools and
 
 - 🔭 Currently building web dashboards and data-driven tools (see ORBITAL, Deskflow).
 - ⚙️ I work primarily with JavaScript/TypeScript and Python to build full‑stack apps and automation.
-- 🌱 Learning Angular and advancing data visualization techniques.
 - 🌍 Open to collaborating on open-source projects (interested in AITR collaboration).
 
 ---
@@ -20,7 +19,6 @@ A practical full‑stack developer building web dashboards, automation tools and
 ## 🚀 What I build
 
 - Web dashboards and data visualizations — interactive frontends that surface API-driven data (ORBITAL).
-- Productivity & support tools — triage boards and workflow UIs (Deskflow).
 - Community platforms for social impact — connecting donors, volunteers and recipients (Annpurna).
 - AI-assisted utilities — research & prototypes that augment workflows (Invoice Management with AI Assistant).
 
