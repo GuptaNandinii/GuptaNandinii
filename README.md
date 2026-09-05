@@ -23,20 +23,14 @@
 
 ## 🤝 Let's get Connected
 <div align="left">
-  <a href="<your-linkedin-profile-url>" target="_blank">
+  <a href="https://in.linkedin.com/in/nandini-gupta-237077297" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:<your-email-address>" target="_blank">
+  <a href="mailto:guptanandini0006@gmail.com" target="_blank">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/<your-twitter-username>" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/<your-instagram-username>" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
 </div>
 
 ## 📊 GitHub Stats
 
-![Nandinii's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GuptaNandinii&bg_color=1c1c1c&color=e6e6e6&line=e6e6e6&point=c2c2c2&area=true&area_color=c2c2c2&hide_border=true)
+![Nandinii's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GuptaNandinii&bg_color=1c1c1c&color=e6e6e6&line=e6e6e6&point=c2c2c2&area=true&area_color=c2c2c2)
