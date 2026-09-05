@@ -82,15 +82,6 @@ Open to contributing and collaborating. I am specifically interested in AITR's o
 
 ---
 
-## 📊 GitHub Stats
-
-![Nandinii's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GuptaNandinii&bg_color=1c1c1c&color=e6e6e6&line=e6e6e6&point=c2c2c2&area=true&area_color=c2c2c2)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuptaNandinii&layout=compact&theme=dark)](https://github.com/GuptaNandinii)
-
----
-
 ## 🤝 Let's connect
 <div align="left">
   <a href="https://in.linkedin.com/in/nandini-gupta-237077297" target="_blank">
