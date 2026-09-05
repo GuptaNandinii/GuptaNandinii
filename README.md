@@ -2,7 +2,7 @@
 
 # Hi, I'm Nandini Gupta 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=FFFFFF00&width=540&lines=Full-stack+Web+Developer+%7C+Data+Visualization+%26+Dashboards+%7C+Practical+AI+Tools)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=FFFFFF00&width=540&lines=Full-stack+Web+Developer+%7C+Data+Visualization+%26+Dashboards+%7C+Practical+AI+Tools)]
 
 A practical full‑stack developer building web dashboards, automation tools and AI-assisted utilities using JavaScript and Python. I focus on clear UX, reliable engineering and making data useful.
 
