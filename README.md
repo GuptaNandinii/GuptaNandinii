@@ -2,7 +2,7 @@
 
 # Hi, I'm Nandini Gupta 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=FFFFFF00&width=540&lines=Full-stack+Web+Developer+%7C+Data+Visualization+%26+Dashboards+%7C+Practical+AI+Tools)]
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=FFFFFF00&width=540&lines=Full-stack+Web+Developer+%7C+Data+Visualization+%26+Dashboards+%7C+Practical+AI+Tools)](https://github.com/GuptaNandinii)
 
 A practical full‑stack developer building web dashboards, automation tools and AI-assisted utilities using JavaScript and Python. I focus on clear UX, reliable engineering and making data useful.
 
@@ -68,10 +68,25 @@ Prototype of an invoice management tool enhanced with an AI assistant to streaml
 
 ---
 
+## 🌱 Currently learning
+- Angular (progress shown in recent commits)
+- Data visualization patterns for dashboards
+
+---
+
 ## 🌍 Open Source
 Open to contributing and collaborating. I am specifically interested in AITR's open-source projects (mentioned earlier) and welcome collaboration on projects that improve developer tooling, dashboards, or community platforms.
 
 ---
+
+## 📚 Sessions & Learning
+- Understanding Open Source by MU-ACM & [Atharv Vani](https://www.linkedin.com/in/atharv-vani110/)
+
+---
+
+## 📊 GitHub Stats
+
+![Nandinii's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GuptaNandinii&bg_color=1c1c1c&color=e6e6e6&line=e6e6e6&point=c2c2c2&area=true&area_color=c2c2c2)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuptaNandinii&layout=compact&theme=dark)](https://github.com/GuptaNandinii)
